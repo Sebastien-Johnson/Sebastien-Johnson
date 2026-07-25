@@ -6,7 +6,4 @@ I primarily write and operate backend systems in Go and Python. Recently been wo
 - ⚡ Fun fact: I'm working towards my amatuer racing license
 - 📫 How to reach me:
   - sebastien.z.johnson@gmail.com
-  - (Linkedin)[https://www.linkedin.com/in/sebastien-z-johnson/]
-
-
-
+  - [Linkedin](https://www.linkedin.com/in/sebastien-z-johnson/)

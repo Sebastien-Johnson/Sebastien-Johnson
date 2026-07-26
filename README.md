@@ -3,7 +3,7 @@ I've been building and operating backend systems in Go and Python for over a yea
 
 - 😄 Pronouns: He/Him
 - 💬 Ask me about track and field
-- ⚡ Fun fact: I'm working towards my amatuer racing license
+- ⚡ Fun fact: I'm working towards my amateur racing license
 - 📫 How to reach me:
   - sebastien.z.johnson@gmail.com
   - [Linkedin](https://www.linkedin.com/in/sebastien-z-johnson/)

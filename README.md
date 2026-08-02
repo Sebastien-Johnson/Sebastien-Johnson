@@ -8,6 +8,6 @@ I've been building and operating backend systems in Go and Python for over a yea
   - sebastien.z.johnson@gmail.com
   - [Linkedin](https://www.linkedin.com/in/sebastien-z-johnson/)
 
-Boot.dev activity
+Boot.dev activity (08/2025-07/2026)
 <img width="969" height="236" alt="image" src="https://github.com/user-attachments/assets/a8e8fba7-a3f8-4673-a555-71f5e0ad27e5" />
 

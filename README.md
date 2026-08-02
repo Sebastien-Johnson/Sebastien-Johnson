@@ -9,4 +9,4 @@ I've been building and operating backend systems in Go and Python for over a yea
   - [Linkedin](https://www.linkedin.com/in/sebastien-z-johnson/)
 
 Boot.dev activity
-<img width="867" height="130" alt="image" src="https://github.com/user-attachments/assets/2b987ac5-f2e9-49df-b715-2a2fe1b743c6" />
+<img width="930" height="182" alt="image" src="https://github.com/user-attachments/assets/215e6b4d-3443-482e-bbf5-4907e20dd5a5" />
